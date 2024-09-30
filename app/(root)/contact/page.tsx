@@ -1,13 +1,13 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "!!!Noise!!!",
+    title: "Say Hi!!",
 };
 
-const Music = () => {
+const Contact = () => {
   return (
-    <div>Music</div>
+    <div>Contact</div>
   )
 }
 
-export default Music
+export default Contact
